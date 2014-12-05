@@ -1,4 +1,1 @@
-rs13-dotJS-overview
-===================
-
-Slides
+dzmitry-varabei.github.io/sef-for-students-conf/

@@ -1,1 +1,1 @@
-http://dzmitry-varabei.github.io/sef-for-students-conf/
+http://dzmitry-varabei.github.io/online-education
